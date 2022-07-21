@@ -1,0 +1,15 @@
+# Ignore Gradle build output directory
+/.gradle/
+/build/
+/target/
+/.idea/
+/bin/
+/out/
+/reports/
+
+# Compiled class file
+*.class
+# Log file
+*.log
+# Iml file
+*.iml
